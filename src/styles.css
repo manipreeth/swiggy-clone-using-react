@@ -1,0 +1,87 @@
+FORM{
+  margin: 100px auto;
+  width: 400px;
+}
+
+.header{
+  background-color: whitesmoke;
+  margin: 5px 0px;
+}
+
+.header img{
+  margin-top: 5px;
+  margin-left: 50px;
+}
+
+.content p{
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+span{
+  margin-left:25px;
+}
+
+.flexdisplay{
+  display:flex;
+}
+
+.navbar{
+  margin-left: 450px;
+}
+
+a{
+  text-decoration:none;
+  padding: 5px;
+  color: black;
+  font-weight: bold; 
+}
+
+.body{
+  background-color: purple;
+}
+
+.body img{
+  margin: 30px;
+}
+.body img:hover{
+  width: 270px;
+  height: 270px;
+  margin: 20px;
+  border: 2px solid blue;
+  border-radius: 20px;
+}
+
+.restaurantsnavbar {
+  border-bottom: 1px solid black;
+  margin: 10px 30px;
+}
+
+.filter{
+  margin-top: 20px;
+  margin-left: 350px;
+}
+
+.restaurants{
+  width: 254px;
+  margin: 20px 33px 40px;
+  border: 2px solid silver;
+  border-radius: 5px;
+}
+
+ul{
+  list-style:none;
+  margin:0px;
+  padding:0px;
+}
+li{
+  margin: 0px 10px;
+}
+
+.restaurants p{
+  color:orange;
+}
+
+#rating{
+  background-color:silver;
+}
